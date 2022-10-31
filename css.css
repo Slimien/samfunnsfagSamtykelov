@@ -27,6 +27,11 @@ nav a{
     cursor: pointer;
 }
 
+nav a:hover{
+    color: aliceblue;
+    background-color: #19ad06;
+}
+
 nav.animation{
     position: absolute;
     height: 100%;
@@ -37,15 +42,19 @@ nav.animation{
     background-color: #1abc9c;
 }
 a:nth-child(1){
-    width: 33%
+    width: 33.3333%;
+    border-radius: 8px;
 
 }
 a:nth-child(2){
-    width: 33%;
+    width: 33.3333%;
+    border-radius: 8px;
+    
 
 }
 a:nth-child(3){
-    width: 33%;
+    width: 33.3334%;
+    border-radius: 8px;
 
 }
 
