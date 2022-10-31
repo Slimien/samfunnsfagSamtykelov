@@ -99,6 +99,7 @@ span{
 .card{
     background-color: #34495e;
     margin-left: 5%;
+    margin-bottom: 15px;
     width: 90%;
     color: lightgray;
     font-size: 15px;
