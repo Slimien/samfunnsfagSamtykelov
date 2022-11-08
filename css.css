@@ -8,6 +8,9 @@ nav{
     border-radius: 8px;
     font-size: 0;
 }
+body {
+    zoom: 150%;
+}
 h5{
     margin-left: 20px;
     color: white;
